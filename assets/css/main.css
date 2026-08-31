@@ -522,6 +522,26 @@ h6 {
   }
 }
 
+
+.company-map-label {
+  font-size: 15px;
+  max-width: 320px;
+  padding: 30px 65px !important;
+}
+
+.company-map-label strong {
+  font-size: 12px;
+}
+
+.company-map-label h6 {
+  font-size: 10px;
+  margin-top: 2px;
+}
+
+.company-map-label i {
+  font-size: 13px;
+}
+
 /*--------------------------------------------------------------
 # Global Footer
 --------------------------------------------------------------*/
